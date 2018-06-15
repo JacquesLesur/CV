@@ -8,12 +8,23 @@ TextureImporter:
     21300006: Perso_3
     21300008: Perso_4
     21300010: Perso_5
-    21300012: Perso_6
-    21300014: Perso_7
-    21300016: Perso_8
-    21300018: Perso_9
-    21300020: Perso_10
-    21300022: Perso_11
+    21300012: Perso_7
+    21300014: Perso_8
+    21300016: Perso_9
+    21300018: Perso_10
+    21300020: Perso_11
+    21300022: Perso_13
+    21300024: Perso_14
+    21300026: Perso_16
+    21300028: Perso_17
+    21300030: Perso_18
+    21300032: Perso_20
+    21300034: Perso_21
+    21300036: Perso_23
+    21300038: Perso_24
+    21300040: Perso_26
+    21300042: Perso_6
+    21300044: Perso_12
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -98,17 +109,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 192
-        width: 24
+        y: 256
+        width: 26
         height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b9e02f8abb44cc49932e125489b5ff5
+      spriteID: a19d03dd8f7251140af5c2c29891b73f
       vertices: []
       indices: 
       edges: []
@@ -118,37 +129,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 83
-        y: 192
+        y: 256
         width: 22
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58727480c11dc624daac0fd23b5fcfa3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Perso_2
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 192
-        width: 20
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bef51223f208f3c4995228a1722ce9cf
+      spriteID: 447bfa450a437614fa07646ebc6c16c1
       vertices: []
       indices: 
       edges: []
@@ -157,18 +148,18 @@ TextureImporter:
       name: Perso_3
       rect:
         serializedVersion: 2
-        x: 19
-        y: 128
-        width: 19
-        height: 55
+        x: 147
+        y: 256
+        width: 21
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5fd596aac6d69d40834c6d2183c10b1
+      spriteID: 551c612b0c262d748924bb0b38f267c3
       vertices: []
       indices: 
       edges: []
@@ -177,18 +168,18 @@ TextureImporter:
       name: Perso_4
       rect:
         serializedVersion: 2
-        x: 83
-        y: 128
-        width: 21
+        x: 211
+        y: 256
+        width: 19
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 751f9f59996693f4281a93f1b1c2f34c
+      spriteID: 58739771b050606459029f23753d129b
       vertices: []
       indices: 
       edges: []
@@ -197,38 +188,18 @@ TextureImporter:
       name: Perso_5
       rect:
         serializedVersion: 2
-        x: 147
-        y: 128
-        width: 20
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e60c4aec8300f3b48914595b70f48f38
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Perso_6
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 64
+        x: 19
+        y: 192
         width: 21
-        height: 54
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52b80760279c74a4c9d0b64449d2dd4d
+      spriteID: 4c5f1fbc2217c254a88804167d9f67d9
       vertices: []
       indices: 
       edges: []
@@ -237,18 +208,18 @@ TextureImporter:
       name: Perso_7
       rect:
         serializedVersion: 2
-        x: 82
-        y: 64
-        width: 20
-        height: 55
+        x: 83
+        y: 192
+        width: 21
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73173e5b06b61324698636b7989a1338
+      spriteID: 11215e1a7a960894b8dbd02c7b775437
       vertices: []
       indices: 
       edges: []
@@ -257,18 +228,18 @@ TextureImporter:
       name: Perso_8
       rect:
         serializedVersion: 2
-        x: 147
-        y: 64
-        width: 19
-        height: 56
+        x: 145
+        y: 192
+        width: 21
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d513a1bdaff19c74cb0bc5f27d2be635
+      spriteID: 94f22f863a5f89c4ba44f08f47dd7806
       vertices: []
       indices: 
       edges: []
@@ -277,18 +248,18 @@ TextureImporter:
       name: Perso_9
       rect:
         serializedVersion: 2
-        x: 19
-        y: 0
+        x: 210
+        y: 192
         width: 20
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d975eb8219e70c54d9e563478192d734
+      spriteID: 4613727439347ce4abca4a3989e73380
       vertices: []
       indices: 
       edges: []
@@ -297,18 +268,18 @@ TextureImporter:
       name: Perso_10
       rect:
         serializedVersion: 2
-        x: 81
-        y: 0
-        width: 25
-        height: 54
+        x: 19
+        y: 128
+        width: 19
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a748f7ffdd1f0f4b8cc34ba34398d15
+      spriteID: b72fe9cd54d8c5647a33bc33ed4c1e72
       vertices: []
       indices: 
       edges: []
@@ -317,18 +288,198 @@ TextureImporter:
       name: Perso_11
       rect:
         serializedVersion: 2
-        x: 146
-        y: 0
-        width: 24
-        height: 54
+        x: 83
+        y: 128
+        width: 20
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f43f78f6e2dc4e4096f64483bdb6218
+      spriteID: 3facc92b66978a141b50e9e4d1a790dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865dcbcdbdff6ff40a45ba115cd630d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_14
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582b6e8c46b77647b72e5d5870816f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763922075a521ed4199429806d960309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 19
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c39ecc4251fa24baea06b33312b737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b1bf6a516b0e43b1a3d4f09a6aa77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 70
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec442065b5c9d2439c8699c632ee9c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8bca67a384c4e4d89a70b89db79dcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fef2693ee998d40b7a1b48f65206e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perso_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16253e217abd742bb62f4ca4db645e
       vertices: []
       indices: 
       edges: []
@@ -336,7 +487,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3d16e43026b78214f933418112a1efdf
+    spriteID: 46225d2e3687b5d4996770c826f818a3
     vertices: []
     indices: 
     edges: []
