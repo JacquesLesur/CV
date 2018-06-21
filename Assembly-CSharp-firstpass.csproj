@@ -280,6 +280,12 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/Jacques/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
+ <Reference Include="TextMeshPro-2017.3-Runtime">
+ <HintPath>C:/Users/Jacques/Documents/GitHub/Unity/CV/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="TextMeshPro-2017.3-Editor">
+ <HintPath>C:/Users/Jacques/Documents/GitHub/Unity/CV/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Editor.dll</HintPath>
+ </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
  </Reference>
